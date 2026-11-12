@@ -40,7 +40,8 @@ We organize the customer journey around four stages: Found, Trusted, Contacted, 
 
 ## Free tools
 
-We plan future free tools. They are not yet live.
+- [Free Website Check](https://nuvyr.com/website-check): a single-page check of how search engines and AI crawlers read a page, with a plain-language fix hint for each observation.
+- [botparity](https://github.com/pixexid/botparity): the same checks as an open-source command-line tool (MIT).
 
 ## Public system overview
 

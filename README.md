@@ -19,9 +19,10 @@ We build and improve websites, search foundations, and practical automations for
 
 Read our [public-safe architecture and methodology](docs/architecture.md) for an overview of the website and how we approach evidence.
 
-## Four services
+## Services
 
 - [Websites](https://nuvyr.com/transformations) — focused website and brand work built around the business and its customer journey.
+- [Brand & logo design](https://nuvyr.com/brand-logo-design) — visual identities and practical brand assets for your business.
 - [Search visibility](https://nuvyr.com/local-growth-systems) — practical search foundations and agreed ongoing work.
 - [Automation](https://nuvyr.com/ai-integrations) — scoped ways to reduce manual work while keeping appropriate human oversight.
 - [AI Visibility Snapshot](https://nuvyr.com/ai-visibility-audit) — an optional pilot diagnostic of how a business appears in a documented set of AI responses.

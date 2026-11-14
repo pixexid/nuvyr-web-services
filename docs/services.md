@@ -15,9 +15,9 @@ We offer four service families for small service businesses. The live pages are 
 
 ## Websites
 
-[Website Refresh](https://nuvyr.com/transformations) brings visual direction, a focused set of English pages, verified service copy, and an inquiry path into an agreed project. We assess what can stay before recommending replacement. Scope, milestones, revisions, and handoff are agreed before work begins.
+[Website Refresh](https://nuvyr.com/web-design-and-development#redesign) brings visual direction, a focused set of English pages, verified service copy, and an inquiry path into an agreed project. We assess what can stay before recommending replacement. Scope, milestones, revisions, and handoff are agreed before work begins.
 
-[Website Updates](https://nuvyr.com/website-updates) is a separate option when an existing site needs scoped fixes, updates, or optional ongoing care rather than a redesign.
+[Website Updates](https://nuvyr.com/web-design-and-development#updates-and-repairs) is a separate option when an existing site needs scoped fixes, updates, or optional ongoing care rather than a redesign.
 
 ## Search visibility
 

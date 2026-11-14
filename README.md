@@ -36,7 +36,7 @@ We organize the customer journey around four stages: Found, Trusted, Contacted, 
 
 ## Projects and case studies
 
-[Explore our projects](https://nuvyr.com/projects), including the [AmigaClean project](https://nuvyr.com/projects/amigaclean), a residential cleaning website and booking system. AmigaClean is one of our own products, not a client engagement. Other project pages identify concepts and their limits; a concept is not a customer result.
+[Explore our projects](https://nuvyr.com/projects), including the [AmigaClean project](https://nuvyr.com/projects/amigaclean), a residential cleaning website and booking system. AmigaClean is client work designed and built by Nuvyr for an independent cleaning business. Other project pages identify concepts and their limits; a concept is not a customer result.
 
 ## Free tools
 

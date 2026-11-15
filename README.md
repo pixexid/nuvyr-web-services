@@ -21,13 +21,13 @@ Read our [public-safe architecture and methodology](docs/architecture.md) for an
 
 ## Services
 
-- [Websites](https://nuvyr.com/transformations) — focused website and brand work built around the business and its customer journey.
+- [Web design and development](https://nuvyr.com/web-design-and-development) — focused website and brand work built around the business and its customer journey.
 - [Brand & logo design](https://nuvyr.com/brand-logo-design) — visual identities and practical brand assets for your business.
 - [Search visibility](https://nuvyr.com/local-growth-systems) — practical search foundations and agreed ongoing work.
 - [Automation](https://nuvyr.com/ai-integrations) — scoped ways to reduce manual work while keeping appropriate human oversight.
 - [AI Visibility Snapshot](https://nuvyr.com/ai-visibility-audit) — an optional pilot diagnostic of how a business appears in a documented set of AI responses.
 
-The live service pages are the source of truth for current scope, terms, availability, and pricing. We agree project details before work begins; this repository publishes no prices. [Website Updates](https://nuvyr.com/website-updates) is a separate, scoped option for maintaining or improving an existing site.
+The live service pages are the source of truth for current scope, terms, availability, and pricing. We agree project details before work begins; this repository publishes no prices. [Website updates and repairs](https://nuvyr.com/web-design-and-development#updates-and-repairs) are a separate, scoped option for maintaining or improving an existing site.
 
 ## Our approach
 
